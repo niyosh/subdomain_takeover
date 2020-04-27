@@ -1,1 +1,2 @@
-test sub takeover
+testing sub takeover
+<configs in settings>
